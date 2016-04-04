@@ -1,1 +1,2 @@
 # Face-and-Eye-detection-in-Python
+Implemented a face and eye detection algorithm in Python on a  variety  of  images, ranging  from  simple  to  complex  group  images.  Used  pre-trained Haar cascade  classifiers  available  in OpenCV for this purpose. Calculated time taken to detect faces in each image and their success percentage. Also, applied non-local means de-noising method to remove noise from images.
